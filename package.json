@@ -1,0 +1,19 @@
+{
+  "name": "dotm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dotm.js",
+  "scripts": {
+    "start": "node dotm.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "mongodb": "^4.3.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
